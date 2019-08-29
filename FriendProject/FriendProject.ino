@@ -11,11 +11,11 @@ byte numDigits = 1;
 bool resistorOnSegments = true;
 byte hardwareConfig = COMMON_CATHODE;
 
-byte digitPin0[] = {28};
-byte segmentPins0[] = {27, 29, 26, 24, 22, 25, 23};
+byte digitPin0[] = {30};
+byte segmentPins0[] = {24, 22, 32, 34, 36, 26, 28};
 
-byte digitPin1[] = {36};
-byte segmentPins1[] = {35, 37, 34, 32, 30, 33, 31};
+byte digitPin1[] = {31};
+byte segmentPins1[] = {25, 23, 33, 35, 37, 27, 29};
 
 /*****************
  * Motor 1

@@ -1,3 +1,6 @@
+# VsCode
+*.VsCode
+
 # Prerequisites
 *.d
 

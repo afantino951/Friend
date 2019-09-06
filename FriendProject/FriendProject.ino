@@ -51,6 +51,7 @@ void setup() {
   pinMode(in4, OUTPUT);
 
   stopAll();
+  sendReady();
   
 }
 

@@ -1,5 +1,7 @@
-# VsCode
+# IDE Configs
 *.VsCode
+*.idea
+*.vscode
 
 # Prerequisites
 *.d
